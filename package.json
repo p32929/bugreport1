@@ -1,0 +1,26 @@
+{
+  "name": "with-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "next": "latest",
+    "overmind": "28.0.1",
+    "overmind-react": "29.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
+    "typescript": "4.4"
+  },
+  "license": "MIT"
+}
